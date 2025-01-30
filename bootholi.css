@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*.ree{
+    font-family: 'Times New Roman', Times, serif;
+}*/
+.gee{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    background-color:#a52a2a;
+}
+.wee{
+    text-align: center;
+}
+.container-fluid{
+    color: #0000ff;
+}
+.okk{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:greenyellow;
+    align-content: center;
+    .me{
+        align-content: center;
+    }
+}
